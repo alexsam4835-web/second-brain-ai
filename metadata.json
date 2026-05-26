@@ -1,0 +1,6 @@
+{
+  "name": "Second Brain",
+  "description": "An AI-powered personal memory assistant to extract, search, and recollect screenshots, links, audio notes, and files using natural language RAG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
